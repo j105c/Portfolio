@@ -3,8 +3,8 @@ This code, which simulates rolling dice and adding up the results while dropping
 but was essential in helping me improve my programming abilities. This code uses pointers which is a key feature in C programming 
 that allows direct memory manipulation and efficient data handling. For me personally, it took some time throughout the CMPT 251 class 
 to fully understand pointers and how to use them within my own code.  But this dice-rolling code provided a useful setting for implementing 
-and strengthening the use of pointers. In the "diceRoll" function, for example, the "int *dice" parameter is a pointer to an integer array, 
-demonstrating how pointers are used in C to pass and manipulate data. I truly began to understand how pointers work and this was a crucial turning 
+and strengthening the use of pointers. In the "diceRoll" function, the "int *dice" parameter is a pointer to an integer array, 
+which is how pointers are created in C to pass and manipulate data. I truly began to understand how pointers work and this was a crucial turning 
 point in my development not only as a computer science student but as a C programmer too. Another learning experience that took place 
 through this particular assignment but also throughout the entire class of CMPT 251 was the use of the Linux command line. I learned a 
 lot about the process of compiling and running programs, which are essential elements of software development. I think this assignemnt meets many 
